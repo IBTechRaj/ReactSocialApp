@@ -1,0 +1,5 @@
+ 1401  npm init -y
+ 1402  npm install react react-dom
+ 1403  npm install webpack webpack-cli webpack-dev-server
+ 1404  npm install @babel/core @babel/preset-env @babel/preset-react babel-loader
+ 1405  npm run dev
